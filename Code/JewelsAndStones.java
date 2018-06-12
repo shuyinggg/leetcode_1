@@ -1,3 +1,5 @@
+https://leetcode.com/problems/jewels-and-stones/
+
 class Solution {
     public int numJewelsInStones(String J, String S) {
         int count = 0;
