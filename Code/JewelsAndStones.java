@@ -32,3 +32,4 @@ class Solution {
 
 toCharArray() 
 - converts this string to a new character array
+*/
