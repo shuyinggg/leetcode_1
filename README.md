@@ -27,3 +27,17 @@ Compute the left and right sums, then give the pivot index.
 
 **Other**:  
 O(n)
+
++ #804 Unique Morse Code Words
+
+**Problem Link**:   
+[https://leetcode.com/problems/unique-morse-code-words/description/](https://leetcode.com/problems/unique-morse-code-words/description/)
+
+**Description**:    
+Represent words in Morse code.
+
+**Solution**:   
+[https://leetcode.com/problems/unique-morse-code-words/solution/](https://leetcode.com/problems/unique-morse-code-words/solution/)
+
+**Other**:
+O(n)
