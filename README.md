@@ -13,3 +13,17 @@ Find how many times each character in String1 appears in String2. (chars in Stri
 
 **Other**:  
 O(n^2)
+
++ #724 Find Pivot Index 
+
+**Problem Link**:   
+[https://leetcode.com/problems/find-pivot-index/description/](https://leetcode.com/problems/find-pivot-index/description/)
+
+**Description**:    
+Compute the left and right sums, then give the pivot index.
+
+**Solution**:   
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java)
+
+**Other**:  
+O(n)
