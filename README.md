@@ -23,7 +23,7 @@ O(n^2)
 Compute the left and right sums, then give the pivot index.
 
 **Solution**:   
-[https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java)
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/pivotIndex.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/pivotIndex.java)
 
 **Other**:  
 O(n)
