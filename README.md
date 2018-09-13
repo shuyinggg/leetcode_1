@@ -39,5 +39,5 @@ Represent words in Morse code.
 **Solution**:   
 [https://leetcode.com/problems/unique-morse-code-words/solution/](https://leetcode.com/problems/unique-morse-code-words/solution/)
 
-**Other**:
+**Other**:  
 O(n)
