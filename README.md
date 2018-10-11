@@ -37,12 +37,13 @@ O(n)
 Represent words in Morse code.
 
 **Solution**:   
-[https://leetcode.com/problems/unique-morse-code-words/solution/](https://leetcode.com/problems/unique-morse-code-words/solution/)
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/uniqueMorseRepresentations.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/uniqueMorseRepresentations.java)
 
 **Other**:  
 O(n) 
 
 + #206 Reverse Linked List
+
 **Problem Link**:   
 [https://leetcode.com/problems/reverse-linked-list/description/](https://leetcode.com/problems/reverse-linked-list/description/)
 
