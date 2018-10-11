@@ -40,4 +40,18 @@ Represent words in Morse code.
 [https://leetcode.com/problems/unique-morse-code-words/solution/](https://leetcode.com/problems/unique-morse-code-words/solution/)
 
 **Other**:  
-O(n)
+O(n) 
+
++ #206 Reverse Linked List
+**Problem Link**:   
+[https://leetcode.com/problems/reverse-linked-list/description/](https://leetcode.com/problems/reverse-linked-list/description/)
+
+**Description**:    
+Reverse a singly LinkedList.
+
+**Solution**:   
+[https://leetcode.com/problems/unique-morse-code-words/solution/](https://leetcode.com/problems/unique-morse-code-words/solution/)
+
+**Other**:  
+O(n) 
+Not recursively
