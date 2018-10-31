@@ -47,7 +47,7 @@ Time: O(n)
 **Problem Link**:   
 [https://leetcode.com/problems/reverse-linked-list/description/](https://leetcode.com/problems/reverse-linked-list/description/)
 
-**Description**:    
+**Description**:           
 Reverse a singly LinkedList.
 
 **Solution**:   
@@ -59,31 +59,31 @@ Not recursively
 
 + #141 Linked List Cycle (LinkedList)
 
-**Problem Link**: 
+**Problem Link**:      
 [https://leetcode.com/problems/linked-list-cycle/description/](https://leetcode.com/problems/linked-list-cycle/description/)
 
-**Description**: 
+**Description**:       
 Detect a cycle in a singly-linked list
 
-**Solution**: 
+**Solution**:        
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java)
 
-**Other**: 
+**Other**:        
 Time: O(n)
 Space: O(1) doesn't require extra space
 
 + #2 Add Two Numbers 
 
-**Problem Link**: 
+**Problem Link**:       
 [https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
 
-**Description**: 
+**Description**:     
 Two Non-negative integers are represnted in linkedlists. Find the sum and also return the result as a linkedlist. The number is in the reverse order. (Ex 234  4->3->2)
 
-**Solution**: 
-[https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java)
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/addTwoNumbers.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/addTwoNumbers.java)
 
-**Other**: 
+**Other**:      
 Time: O(n)
 Space: O(1) doesn't require extra space
 
