@@ -78,7 +78,7 @@ Space: O(1) doesn't require extra space
 [https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
 
 **Description**:     
-Two Non-negative integers are represnted in linkedlists. Find the sum and also return the result as a linkedlist. The number is in the reverse order. (Ex 234  4->3->2)
+Two Non-negative integers are represnted in linkedlists. Find the sum and also return the result as a linkedlist. The number is stored in the reverse order. (Ex 234  4->3->2)
 
 **Solution**:            
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/addTwoNumbers.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/addTwoNumbers.java)
