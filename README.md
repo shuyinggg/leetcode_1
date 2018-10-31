@@ -12,7 +12,7 @@ Find how many times each character in String1 appears in String2. (chars in Stri
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java)
 
 **Other**:  
-O(n^2)
+Time: O(n^2)
 
 + #724 Find Pivot Index 
 
@@ -26,7 +26,7 @@ Compute the left and right sums, then give the pivot index.
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/pivotIndex.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/pivotIndex.java)
 
 **Other**:  
-O(n)
+Time: O(n)
 
 + #804 Unique Morse Code Words
 
@@ -40,9 +40,9 @@ Represent words in Morse code.
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/uniqueMorseRepresentations.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/uniqueMorseRepresentations.java)
 
 **Other**:  
-O(n) 
+Time: O(n) 
 
-+ #206 Reverse Linked List
++ #206 Reverse Linked List (LinkedList)
 
 **Problem Link**:   
 [https://leetcode.com/problems/reverse-linked-list/description/](https://leetcode.com/problems/reverse-linked-list/description/)
@@ -54,10 +54,10 @@ Reverse a singly LinkedList.
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/reverseList.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/reverseList.java)
 
 **Other**:  
-O(n) iteratively 
+Time: O(n) iteratively 
 Not recursively
 
-+ #141 Linked List Cycle
++ #141 Linked List Cycle (LinkedList)
 
 **Problem Link**: 
 [https://leetcode.com/problems/linked-list-cycle/description/](https://leetcode.com/problems/linked-list-cycle/description/)
@@ -69,5 +69,22 @@ Detect a cycle in a singly-linked list
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java)
 
 **Other**: 
+Time: O(n)
+Space: O(1) doesn't require extra space
+
++ #2 Add Two Numbers 
+
+**Problem Link**: 
+[https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
+
+**Description**: 
+Two Non-negative integers are represnted in linkedlists. Find the sum and also return the result as a linkedlist. The number is in the reverse order. (Ex 234  4->3->2)
+
+**Solution**: 
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasCycle.java)
+
+**Other**: 
+Time: O(n)
+Space: O(1) doesn't require extra space
 
 
