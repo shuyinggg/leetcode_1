@@ -17,7 +17,7 @@
 [https://leetcode.com/problems/jewels-and-stones/description/](https://leetcode.com/problems/jewels-and-stones/description/)
 
 **Description**:    
-Find how many times each character in String1 appears in String2. (chars in String1 is distinct) 
+Find how many times each character in String1 appears in String2. (chars in String1 are distinct) 
 
 **Solution**:   
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/JewelsAndStones.java)
