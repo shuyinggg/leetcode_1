@@ -88,3 +88,18 @@ Time: O(n)
 Space: O(1) doesn't require extra space
 
 
++ #3 Longest Substring Without Repeating Characters 
+
+**Problem Link**:       
+[https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+**Description**:     
+Given a string, find the length of the longest substring without repeating characters. (Buy "substring" all the chars should be adjacent in the original string)
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/lengthOfLongestSubstring.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/lengthOfLongestSubstring.java)
+
+**Other**:      
+Time: O(n^2)
+
+
