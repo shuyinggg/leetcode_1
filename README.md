@@ -1,4 +1,15 @@
 # leetcode_1
+## List
+
++ #771 Jewels and Stones
++ #724 Find Pivot Index 
++ #804 Unique Morse Code Words
++ #206 Reverse Linked List (LinkedList)
++ #141 Linked List Cycle (LinkedList)
++ #2 Add Two Numbers
++ #3 Longest Substring Without Repeating Characters
+
+
 ## Problems
 + #771 Jewels and Stones 
 
