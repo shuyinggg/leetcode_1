@@ -8,6 +8,7 @@
 + #141 Linked List Cycle (LinkedList)
 + #2 Add Two Numbers
 + #3 Longest Substring Without Repeating Characters
++ #5 Longest Palindromic Substring (String manipulation)
 
 
 ## Problems
@@ -98,19 +99,42 @@ Two Non-negative integers are represnted in linkedlists. Find the sum and also r
 Time: O(n)
 Space: O(1) doesn't require extra space
 
-
 + #3 Longest Substring Without Repeating Characters 
 
 **Problem Link**:       
 [https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 **Description**:     
-Given a string, find the length of the longest substring without repeating characters. (Buy "substring" all the chars should be adjacent in the original string)
+Given a string, find the length of the longest substring without repeating characters. (By "substring" all the chars should be adjacent in the original string)
 
 **Solution**:            
 [https://github.com/shuyinggg/leetcode_1/blob/master/Code/lengthOfLongestSubstring.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/lengthOfLongestSubstring.java)
 
 **Other**:      
-Time: O(n^2)
+Time: O(n^2)   
+
++ #5 Longest Palindromic Substring
+
+**Problem Link**:       
+[https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)  
+
+**Description**:     
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000 (Stress Test).
+```
+Tests:
+Edge/Null Case: Null - not specify
+                Edge - one char only; same chars
+Stress Test: 1000 same chars; 500 same chars + 500 same chars
+```
+ 
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/longestPalindrome.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/longestPalindrome.java)
+
+**Other**:      
+Time: O(n^3) A very naive solution. ~700ms
+
+
+
 
 
