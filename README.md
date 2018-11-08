@@ -1,7 +1,7 @@
 # leetcode_1
 ## List
 
-+ #771 Jewels and Stones
++ #771 [Jewels and Stones](#Jewels-and-Stones)
 + #724 Find Pivot Index 
 + #804 Unique Morse Code Words
 + #206 Reverse Linked List (LinkedList)
@@ -9,6 +9,7 @@
 + #2 Add Two Numbers
 + #3 Longest Substring Without Repeating Characters
 + #5 Longest Palindromic Substring (String manipulation)
++ #1 Two Sum (Array & Hash Table)
 
 
 ## Problems
@@ -134,7 +135,24 @@ Stress Test: 1000 same chars; 500 same chars + 500 same chars
 **Other**:      
 Time: O(n^3) A very naive solution. ~700ms
 
++ #1 Two Sum 
 
+**Problem Link**:       
+[https://leetcode.com/problems/two-sum/description/](https://leetcode.com/problems/two-sum/description/)
+
+**Description**:     
+Given an array of integers, return indices of the two numbers such that they add up to a specific target. (EXACTLY one solution)
+Input array is not sorted and contains negative and duplicate elements.
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/twoSum.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/twoSum.java)
+
+**Other**:      
+Time: O(n^2)  Brute Force  
+```
+Some edge case:
+target = 0, array = [0, 3, 4, 5]
+```
 
 
 
