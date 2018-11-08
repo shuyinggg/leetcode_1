@@ -4,12 +4,12 @@
 + [771 Jewels and Stones](#771-Jewels-and-Stones)
 + [724 Find Pivot Index](#724-Find-Pivot-Index)
 + [804 Unique Morse Code Words](#804-Unique-Morse-Code-Words)
-+ [206 Reverse Linked List](#206-Reverse-Linked-List)(LinkedList)
-+ [141 Linked List Cycle](#141-Linked-List-Cycle)(LinkedList)
++ [206 Reverse Linked List (LinkedList)](#206-Reverse-Linked-List-(LinkedList))
++ [141 Linked List Cycle (LinkedList)](#141-Linked-List-Cycle-(LinkedList))
 + [2 Add Two Numbers](#2-Add-Two-Numbers)
 + [3 Longest Substring Without Repeating Characters](#3-Longest-Substring-Without-Repeating-Characters)
-+ [5 Longest Palindromic Substring](#5-Longest-Palindromic-Substring) (String manipulation)
-+ [1 Two Sum](#1-Two-Sum) (Array & Hash Table)
++ [5 Longest Palindromic Substring (String Manipulation)](#5-Longest-Palindromic-Substring-(String Manipulation))
++ [1 Two Sum (Array & Hash Table)](#1-Two-Sum-(Array-&-Hash-Table)) 
 
 
 # Problems
@@ -114,7 +114,7 @@ Given a string, find the length of the longest substring without repeating chara
 **Other**:      
 Time: O(n^2)   
 
-## 5 Longest Palindromic Substring
+## 5 Longest Palindromic Substring (String Manipulation)
 
 **Problem Link**:       
 [https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)  
@@ -135,7 +135,7 @@ Stress Test: 1000 same chars; 500 same chars + 500 same chars
 **Other**:      
 Time: O(n^3) A very naive solution. ~700ms
 
-## 1 Two Sum 
+## 1 Two Sum (Array & Hash Table)    
 
 **Problem Link**:       
 [https://leetcode.com/problems/two-sum/description/](https://leetcode.com/problems/two-sum/description/)
