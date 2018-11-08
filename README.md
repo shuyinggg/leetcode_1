@@ -1,7 +1,7 @@
 # leetcode_1
 # List
 
-+ 771 Jewels and Stones
++ [771 Jewels and Stones](#771-Jewels-and-Stones)
 + 724 Find Pivot Index
 + 804 Unique Morse Code Words
 + 206 Reverse Linked List(LinkedList)
