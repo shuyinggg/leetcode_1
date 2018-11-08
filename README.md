@@ -1,19 +1,19 @@
 # leetcode_1
-## List
+# List
 
-+ #771 Jewels and Stones
-+ #724 Find Pivot Index
-+ #804 Unique Morse Code Words
-+ #206 Reverse Linked List(LinkedList)
-+ #141 Linked List Cycle(LinkedList)
-+ #2 Add Two Numbers
-+ #3 Longest Substring Without Repeating Characters
-+ #5 Longest Palindromic Substring (String manipulation)
-+ #1 Two Sum (Array & Hash Table)
++ 771 Jewels and Stones
++ 724 Find Pivot Index
++ 804 Unique Morse Code Words
++ 206 Reverse Linked List(LinkedList)
++ 141 Linked List Cycle(LinkedList)
++ 2 Add Two Numbers
++ 3 Longest Substring Without Repeating Characters
++ 5 Longest Palindromic Substring (String manipulation)
++ 1 Two Sum (Array & Hash Table)
 
 
-## Problems
-+ 771 Jewels and Stones 
+# Problems
+## 771 Jewels and Stones 
 
 **Problem Link**:   
 [https://leetcode.com/problems/jewels-and-stones/description/](https://leetcode.com/problems/jewels-and-stones/description/)
@@ -27,7 +27,7 @@ Find how many times each character in String1 appears in String2. (chars in Stri
 **Other**:  
 Time: O(n^2)
 
-+ #724 Find Pivot Index 
+## 724 Find Pivot Index 
 
 **Problem Link**:   
 [https://leetcode.com/problems/find-pivot-index/description/](https://leetcode.com/problems/find-pivot-index/description/)
@@ -41,7 +41,7 @@ Compute the left and right sums, then give the pivot index.
 **Other**:  
 Time: O(n)
 
-+ #804 Unique Morse Code Words
+## 804 Unique Morse Code Words
 
 **Problem Link**:   
 [https://leetcode.com/problems/unique-morse-code-words/description/](https://leetcode.com/problems/unique-morse-code-words/description/)
@@ -55,7 +55,7 @@ Represent words in Morse code.
 **Other**:  
 Time: O(n) 
 
-+ #206 Reverse Linked List (LinkedList)
+## 206 Reverse Linked List (LinkedList)
 
 **Problem Link**:   
 [https://leetcode.com/problems/reverse-linked-list/description/](https://leetcode.com/problems/reverse-linked-list/description/)
@@ -70,7 +70,7 @@ Reverse a singly LinkedList.
 Time: O(n) iteratively 
 Not recursively
 
-+ #141 Linked List Cycle (LinkedList)
+## 141 Linked List Cycle (LinkedList)
 
 **Problem Link**:      
 [https://leetcode.com/problems/linked-list-cycle/description/](https://leetcode.com/problems/linked-list-cycle/description/)
@@ -85,7 +85,7 @@ Detect a cycle in a singly-linked list
 Time: O(n)
 Space: O(1) doesn't require extra space
 
-+ #2 Add Two Numbers 
+## 2 Add Two Numbers 
 
 **Problem Link**:       
 [https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
@@ -100,7 +100,7 @@ Two Non-negative integers are represnted in linkedlists. Find the sum and also r
 Time: O(n)
 Space: O(1) doesn't require extra space
 
-+ #3 Longest Substring Without Repeating Characters 
+## 3 Longest Substring Without Repeating Characters 
 
 **Problem Link**:       
 [https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -114,7 +114,7 @@ Given a string, find the length of the longest substring without repeating chara
 **Other**:      
 Time: O(n^2)   
 
-+ #5 Longest Palindromic Substring
+## 5 Longest Palindromic Substring
 
 **Problem Link**:       
 [https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)  
@@ -135,7 +135,7 @@ Stress Test: 1000 same chars; 500 same chars + 500 same chars
 **Other**:      
 Time: O(n^3) A very naive solution. ~700ms
 
-+ #1 Two Sum 
+## 1 Two Sum 
 
 **Problem Link**:       
 [https://leetcode.com/problems/two-sum/description/](https://leetcode.com/problems/two-sum/description/)
