@@ -2,14 +2,14 @@
 # List
 
 + [771 Jewels and Stones](#771-Jewels-and-Stones)
-+ 724 Find Pivot Index
-+ 804 Unique Morse Code Words
-+ 206 Reverse Linked List(LinkedList)
-+ 141 Linked List Cycle(LinkedList)
-+ 2 Add Two Numbers
-+ 3 Longest Substring Without Repeating Characters
-+ 5 Longest Palindromic Substring (String manipulation)
-+ 1 Two Sum (Array & Hash Table)
++ [724 Find Pivot Index](#724-Find-Pivot-Index)
++ [804 Unique Morse Code Words](#804-Unique-Morse-Code-Words)
++ [206 Reverse Linked List](#206-Reverse-Linked-List)(LinkedList)
++ [141 Linked List Cycle](#141-Linked-List-Cycle)(LinkedList)
++ [2 Add Two Numbers](#2-Add-Two-Numbers)
++ [3 Longest Substring Without Repeating Characters](#3-Longest-Substring-Without-Repeating-Characters)
++ [5 Longest Palindromic Substring](#5-Longest-Palindromic-Substring) (String manipulation)
++ [1 Two Sum](#1-Two-Sum) (Array & Hash Table)
 
 
 # Problems
