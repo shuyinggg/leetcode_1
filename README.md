@@ -10,6 +10,7 @@
 + [3 Longest Substring Without Repeating Characters](#3-Longest-Substring-Without-Repeating-Characters)
 + [5 Longest Palindromic Substring](#5-Longest-Palindromic-Substring) (String Manipulation)
 + [1 Two Sum](#1-Two-Sum) (Array & Hash Table)
++ [111 Minimum Depth of Binary Tree](#111-Minimum-Depth-Of-Binary-Tree) (Binary Tree, BFS, DFS)
 
 
 # Problems
@@ -154,5 +155,21 @@ Some edge case:
 target = 0, array = [0, 3, 4, 5]
 ```
 
+## 111 Minimum Depth of Binary Tree 
 
+**Problem Link**:       
+[https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+**Description**:     
+Given a binary tree, find its minimum depth.
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+(If the tree contains only one node, depth = 1)
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDepth.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDpeth.java)
+
+**Other**:      
+Time: O(n) 
+Recursion -- The Binary Tree maybe very unbalanced.
+To do: BFS and DFS
 
