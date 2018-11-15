@@ -11,6 +11,7 @@
 + [5 Longest Palindromic Substring](#5-Longest-Palindromic-Substring) (String Manipulation)
 + [1 Two Sum](#1-Two-Sum) (Array & Hash Table)
 + [111 Minimum Depth of Binary Tree](#111-Minimum-Depth-Of-Binary-Tree) (Binary Tree, BFS, DFS)
++ [146 LRU Cache](#146-LRU-Cache) (Design)
 
 
 # Problems
@@ -170,6 +171,32 @@ The minimum depth is the number of nodes along the shortest path from the root n
 
 **Other**:      
 Time: O(n) 
-Recursion -- The Binary Tree maybe very unbalanced.
+Recursion -- Drawback: The Binary Tree maybe very unbalanced.
 To do: BFS and DFS
+
+## 146 LRU Cache 
+
+**Problem Link**:       
+[https://leetcode.com/problems/lru-cache](https://leetcode.com/problems/lru-cache)
+
+**Description**:     
+Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put. 
+
+get(key) - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1. 
+
+put(key, value) - Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.   
+
+key, value -- all integers
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/LRUCache.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/LRUCache.java)     
+
+Alternate solution:
+[https://leetcode.com/problems/lru-cache/discuss/45911/Java-Hashtable-%2B-Double-linked-list-(with-a-touch-of-pseudo-nodes)](https://leetcode.com/problems/lru-cache/discuss/45911/Java-Hashtable-%2B-Double-linked-list-(with-a-touch-of-pseudo-nodes))
+
+**Other**:      
+Time: ? 
+get O(1)
+put O(1), if the key exists, remove and put O(n).
+Use Class LinkedHashMap.
 
