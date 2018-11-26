@@ -13,6 +13,7 @@
 + [111 Minimum Depth of Binary Tree](#111-Minimum-Depth-Of-Binary-Tree) (Binary Tree, BFS, DFS)
 + [146 LRU Cache](#146-LRU-Cache) (Design)
 + [127 Word Ladder](#127-Word-Ladder) (BFS)
++ [202 Happy Number](#202-Happy-Number)
 
 
 # Problems
@@ -215,3 +216,20 @@ Given two words (beginWord and endWord), and a dictionary's word list, find the 
 
 **Other**:      
 To do: Time Analysis
+
+## 202 Happy Number 
+
+**Problem Link**:       
+[https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)
+
+**Description**:     
+Write an algorithm to determine if a number is "happy".
+
+A happy number is a number defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers.
+
+**Solution**:            
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/isHappy.py](https://github.com/shuyinggg/leetcode_1/blob/master/Code/isHappy.py)
+
+**Other**:      
+while loop
+convert the big integera into string/list
