@@ -202,6 +202,17 @@ get O(1)
 put O(1), if the key exists, remove and put O(n).
 Use Class LinkedHashMap.
 
+In order to make all these to operations O(1), need HashMap and DoubleLinkedList to track the entering and leaving sequence. HashMap is an array of linkedlists.
+
+```
+Hash    | LinkedList
+---------------------------
+key     | prev data next hnext -> prev data next hnext -> null
+             
+key     | prev data next hnext -> null
+        
+```
+prev and next are fields in doublelinkedlist which link all the item in the HashMap, hnext points to the next element in the same hashmap linkedlist.
 
 ## 127 Word Ladder 
 
