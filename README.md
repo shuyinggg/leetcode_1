@@ -14,7 +14,7 @@
 + [146 LRU Cache](#146-LRU-Cache) (Design)
 + [127 Word Ladder](#127-Word-Ladder) (BFS)
 + [202 Happy Number](#202-Happy-Number)
-+ [112 Path Sum](#112-PathSum)
++ [112 Path Sum](#112-Path-Sum)
 
 
 # Problems
