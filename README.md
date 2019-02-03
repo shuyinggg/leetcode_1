@@ -14,6 +14,7 @@
 + [146 LRU Cache](#146-LRU-Cache) (Design)
 + [127 Word Ladder](#127-Word-Ladder) (BFS)
 + [202 Happy Number](#202-Happy-Number)
++ [112 Path Sum](#112-PathSum)
 
 
 # Problems
@@ -169,7 +170,7 @@ The minimum depth is the number of nodes along the shortest path from the root n
 (If the tree contains only one node, depth = 1)
 
 **Solution**:            
-[https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDepth.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDpeth.java)
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDepth.java](https://github.com/shuyinggg/leetcode_1/blob/master/Code/minDepth.java)
 
 **Other**:      
 Time: O(n) 
@@ -244,3 +245,34 @@ A happy number is a number defined by the following process: Starting with any p
 **Other**:      
 while loop
 convert the big integera into string/list
+
+## 112 Path Sum 
+
+**Problem Link**:       
+[https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+
+**Description**:     
+Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
+
+**Solution**:            
+
+[https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasPathSum.py](https://github.com/shuyinggg/leetcode_1/blob/master/Code/hasPathSum.py)
+
+**Other**:      
+None in Python 
+
+```
+1. as Value
+
+value == None
+
+2. as Boolean
+
+if value
+
+if not value
+```
+
+DFS
+
+
